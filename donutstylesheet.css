@@ -101,6 +101,9 @@ td{
 	border-collapse:collapse;
 	border:	#CCC solid 3px;
 }
+th {
+	font-weight: bold;
+}
 ul{
 	list-style-type: none;
 }
@@ -108,7 +111,6 @@ input[type="textarea"] {
 	margin-top:5px;
 	margin-left:13%;
 	text-align: center;
-
 }
 
 
